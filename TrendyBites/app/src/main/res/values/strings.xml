@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Trendy Bites</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- strings used in content_main.xml -->
+    <string name="selectFoodPlace">Select food place</string>
+    <string name="area">Locate Area</string>
+    <string name="pickCategory">Pick a category</string>
+    <string name="currentLocation">Current Location</string>
+    <string name="txtWeather">Weather</string>
+    <string name="txtBudget">Budget</string>
+    <string name="txtRating">Rating</string>
+    <string name="txtNutrition">Nutrition</string>
+
+    <!-- strings used in content_weather_results.xml -->
+    <string name="Results">WHAT TO EAT NOW</string>
+
+    <!-- strings used in content_budget_questionnaire.xml -->
+    <string name="questions">Kindly answer a few questions</string>
+    <string name="foodPreference">I like to eat</string>
+    <string name="txtFoodBudget">Budget per person</string>
+    <string name="txtPeople">Head Count</string>
+    <string name="btnSuggest">Suggest</string>
+    <string-array name="foodVarietyArray">
+        <item>Vegetarian</item>
+        <item>Non-Vegetarian</item>
+        <item>Vegan</item>
+        <item>No Selection</item>
+    </string-array>
+    <string-array name="foodBudgetArray">
+        <item>0$ - 25$</item>
+        <item>25$ - 50$</item>
+        <item>50$ - 75$</item>
+        <item>75$ - 100$</item>
+    </string-array>
+
+
+
+    <!-- strings used in AndroidManifest.xml -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_weather_results">Weather</string>
+    <string name="title_activity_budget_questionnaire">Budget Questionnaire</string>
+    <string name="action_menu">Menu</string>
+    <string name="title_activity_food_place_menu">FoodPlaceMenu</string>
+
+</resources>
